@@ -6,7 +6,7 @@
     <title>说不清的事</title>
     <link>https://javakenn.github.io/podcast-feed</link>
     <description>KAI 和 Shan 主持的播客，探讨亲密关系的话题</description>
-    <language>zh-cn</language>
+    <language>zh</language>
     <atom:link href="https://javakenn.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:owner>
@@ -30,6 +30,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    
+    <item>
+      <title>Vol.01 安全感到底是谁给你的？</title>
+      <description>万维钢《现代思维工具100讲》拆解：从安斯沃斯实验讲三种依恋类型（焦虑型、回避型、安全型），到独立自主是不是个伪命题，再到成年人怎么自己搭一个不会塌方的安全感系统。</description>
+      <pubDate>Wed, 29 Apr 2026 07:59:00 GMT</pubDate>
+      <enclosure url="https://javakenn.github.io/podcast-feed/episodes/Vol.1-2026-04-29-安全感到底是谁给你的？.mp3"
+                 length="8113884"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://javakenn.github.io/podcast-feed/episodes/Vol.1-2026-04-29-安全感到底是谁给你的？.mp3</guid>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:summary>万维钢《现代思维工具100讲》拆解：从安斯沃斯实验讲三种依恋类型（焦虑型、回避型、安全型），到独立自主是不是个伪命题，再到成年人怎么自己搭一个不会塌方的安全感系统。</itunes:summary>
+    </item>
     
   </channel>
 </rss>
