@@ -3,14 +3,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>没想好名字电台</title>
+    <title>说不清的事</title>
     <link>https://javakenn.github.io/podcast-feed</link>
     <description>KAI 和 Shan 主持的播客，探讨亲密关系的话题</description>
     <language>zh-cn</language>
     <atom:link href="https://javakenn.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:owner>
-      <itunes:name>没想好名字电台</itunes:name>
+      <itunes:name>说不清的事</itunes:name>
       <itunes:email>javakenn@gmail.com</itunes:email>
     </itunes:owner>
     
@@ -18,13 +18,13 @@
     <!-- Show artwork -->
     <image>
       <url>https://javakenn.github.io/podcast-feed/cover-art.png</url>
-      <title>没想好名字电台</title>
+      <title>说不清的事</title>
       <link>https://javakenn.github.io/podcast-feed</link>
     </image>
     <itunes:image href="https://javakenn.github.io/podcast-feed/cover-art.png"/>
 
     <!-- Podcast player metadata -->
-    <itunes:author>没想好名字电台</itunes:author>
+    <itunes:author>说不清的事</itunes:author>
     <itunes:summary>KAI 和 Shan 主持的播客，探讨亲密关系的话题</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
