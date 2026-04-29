@@ -3,28 +3,45 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>说不清的事</title>
     <link>https://javakenn.github.io/podcast-feed</link>
-    <description>A personalized AI-generated podcast.</description>
-    <language></language>
+    <description>KAI 和 Shan 主持的播客，探讨亲密关系的话题</description>
+    <language>zh</language>
     <atom:link href="https://javakenn.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <itunes:owner>
+      <itunes:name>说不清的事</itunes:name>
+      <itunes:email>javakenn@gmail.com</itunes:email>
+    </itunes:owner>
     
 
     <!-- Show artwork -->
     <image>
       <url>https://javakenn.github.io/podcast-feed/cover-art.png</url>
-      <title></title>
+      <title>说不清的事</title>
       <link>https://javakenn.github.io/podcast-feed</link>
     </image>
     <itunes:image href="https://javakenn.github.io/podcast-feed/cover-art.png"/>
 
     <!-- Podcast player metadata -->
-    <itunes:author></itunes:author>
-    <itunes:summary>A personalized AI-generated podcast.</itunes:summary>
+    <itunes:author>说不清的事</itunes:author>
+    <itunes:summary>KAI 和 Shan 主持的播客，探讨亲密关系的话题</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    
+    <item>
+      <title>Vol.01 安全感到底是谁给你的？</title>
+      <description>为什么有人能轻松独处，有人却离不开手机？为什么伴侣晚回十分钟，你已经把对方出轨车祸的剧情在脑子里演了三遍？这期我们聊一个被滥用的词——安全感。从一个三岁小孩在房间里的反应可以预言一辈子人际关系的经典心理实验讲起，拆解三种依恋类型怎么形成、又怎么影响成年后的婚恋和职场，再聊聊「独立自主」是不是个伪命题，以及成年人怎么自己一砖一瓦搭出一个不会塌方的安全感系统。</description>
+      <pubDate>Wed, 29 Apr 2026 14:12:32 GMT</pubDate>
+      <enclosure url="https://javakenn.github.io/podcast-feed/episodes/Vol.1-2026-04-29-安全感到底是谁给你的？.mp3"
+                 length="7916607"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://javakenn.github.io/podcast-feed/episodes/Vol.1-2026-04-29-安全感到底是谁给你的？.mp3</guid>
+      <itunes:duration>8:14</itunes:duration>
+      <itunes:summary>为什么有人能轻松独处，有人却离不开手机？为什么伴侣晚回十分钟，你已经把对方出轨车祸的剧情在脑子里演了三遍？这期我们聊一个被滥用的词——安全感。从一个三岁小孩在房间里的反应可以预言一辈子人际关系的经典心理实验讲起，拆解三种依恋类型怎么形成、又怎么影响成年后的婚恋和职场，再聊聊「独立自主」是不是个伪命题，以及成年人怎么自己一砖一瓦搭出一个不会塌方的安全感系统。</itunes:summary>
+    </item>
     
   </channel>
 </rss>
